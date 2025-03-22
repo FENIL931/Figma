@@ -6,5 +6,7 @@ a) **While Clicking on the next and previous -** https://github.com/user-attachm
 
 b) **While Hovering to the Shoes -** https://github.com/user-attachments/assets/82b911cf-ac24-4ef0-8d88-6e8b072086db
 
-c) **Jogging Shoes -**
-    ![Shoe](https://github.com/user-attachments/assets/74101fe6-044e-4abf-9f2e-5d42463888a2)
+
+## 2) Medical Website
+   ![Prototype](https://github.com/user-attachments/assets/955c2235-28fb-4878-8352-baa246c30483)
+
